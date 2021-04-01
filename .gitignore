@@ -1,2 +1,7 @@
 # project file
 *.vcxproj
+
+.vs/
+.vscode/
+*.sln
+oop/Debug/
