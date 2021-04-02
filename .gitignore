@@ -1,7 +1,12 @@
-# project file
-*.vcxproj
-
-.vs/
-.vscode/
+# .sln
 *.sln
-oop/Debug/
+
+# .config
+*.config
+
+# /bin
+/bin
+/obj
+
+# .vs
+*.vs
